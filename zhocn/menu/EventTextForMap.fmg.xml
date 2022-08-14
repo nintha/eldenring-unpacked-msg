@@ -239,6 +239,16 @@
 <text id="30138">%null%</text>
 <text id="30139">%null%</text>
 <text id="30140">地图已被画上红色标记。</text>
+<text id="30141">%null%</text>
+<text id="30142">%null%</text>
+<text id="30143">%null%</text>
+<text id="30144">%null%</text>
+<text id="30145">%null%</text>
+<text id="30146">%null%</text>
+<text id="30147">%null%</text>
+<text id="30148">%null%</text>
+<text id="30149">%null%</text>
+<text id="30150">您未持有溃烂血指。</text>
 <text id="60011">找出三只睿智兽物。</text>
 <text id="60012">%null%</text>
 <text id="60013">%null%</text>
@@ -391,6 +401,8 @@
 接受召唤吗？</text>
 <text id="80611">要作为米莉森的敌对者，
 接受召唤吗？</text>
+<text id="80612">要入侵“兽爪”玛格纳斯的世界吗？</text>
+<text id="80613">要消耗溃烂血指，入侵“兽爪”玛格纳斯的世界吗？</text>
 <text id="80800">已召唤 城主杰廉。</text>
 <text id="80801">城主杰廉 已死亡。</text>
 <text id="80802">城主杰廉 已返回原本的世界。</text>

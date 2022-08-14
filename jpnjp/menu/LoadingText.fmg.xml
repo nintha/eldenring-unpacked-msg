@@ -248,32 +248,5 @@
 <text id="200">雫スカラベには緋色と青色が存在し、倒すことでそれぞれの聖杯瓶が回復する
 ただし、上限を超えて回復することはない
 </text>
-<text id="250">&lt;?kgOk?&gt;　A／○ボタン（プラット考慮した決定ボタン）
-&lt;?kgCancel?&gt;　B／×ボタン（プラット考慮したキャンセルボタン）
-&lt;?kgRD?&gt;　A／×ボタン
-&lt;?kgRR?&gt;　B／○ボタン
-&lt;?kgRL?&gt;　X／□ボタン
-&lt;?kgRU?&gt;　Y／△ボタン</text>
-<text id="251">&lt;?kgU?&gt;　十字キー：↑
-&lt;?kgD?&gt;　十字キー：↓
-&lt;?kgL?&gt;　十字キー：←
-&lt;?kgR?&gt;　十字キー：→
-&lt;?kgUD?&gt;　十字キー：↑↓
-&lt;?kgLR?&gt;　十字キー：→↑
-&lt;?kgUDLR?&gt;　十字キー：↑↓←→</text>
-<text id="252">&lt;?kgL1?&gt;　LB／L1ボタン
-&lt;?kgR1?&gt;　RB／R1ボタン
-&lt;?kgL1R1?&gt;　LB／L1ボタン、RB／R1ボタン両方
-&lt;?kgL2?&gt;　LT／L2ボタン
-&lt;?kgR2?&gt;　RT／R2ボタン
-&lt;?kgL2R2?&gt;　LT／L2ボタン、RT／R2ボタン両方</text>
-<text id="253">&lt;?kgL3?&gt;　Lスティック押し込み（L3）
-&lt;?kgR3?&gt;　Rスティック押し込み（R3）
-&lt;?kgLStick?&gt;　Lスティック
-&lt;?kgRStick?&gt;　Rスティック
-&lt;?kgTouchPadL?&gt;　Backボタン／パッド左
-&lt;?kgTouchPadR?&gt;　Startボタン／パッド右
-&lt;?kgStart?&gt;　Startボタン／Startボタン
-&lt;?kgBack?&gt;　Backボタン／パッド左</text>
 </entries>
 </fmg>

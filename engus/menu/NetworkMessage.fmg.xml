@@ -76,8 +76,8 @@ you when your world is invaded</text>
 <text id="2311209">%null%</text>
 <text id="2311210">Invading another world...</text>
 <text id="2311304">Being summoned to another world as a hunter...</text>
-<text id="2331200">Attempting to invade another world...</text>
-<text id="2331201">Searching for world to be summoned to as an ally...</text>
+<text id="2331200">Attempting to invade another world... (Bounds: Nearby only)</text>
+<text id="2331201">Attempting to invade another world... (Bounds: Near/far)</text>
 <text id="2331202">Requesting the summons of a Broken Finger Stalker</text>
 <text id="2331203">%null%</text>
 <text id="2331204">%null%</text>
@@ -86,9 +86,15 @@ you when your world is invaded</text>
 <text id="2331207">%null%</text>
 <text id="2331208">%null%</text>
 <text id="2331209">%null%</text>
-<text id="2331210">Attempting to invade another world...</text>
-<text id="2331300">Sending co-op sign to summoning pool</text>
-<text id="2331301">Sending hostile sign to summoning pool</text>
+<text id="2331210">Attempting to invade another world... (Bounds: Nearby only)</text>
+<text id="2331211">Attempting to invade another world... (Bounds: Near/far)</text>
+<text id="2331300">Sending co-op sign to summoning pools (Range: Nearby only)</text>
+<text id="2331301">Sending hostile sign to summoning pools (Range: Nearby only)</text>
+<text id="2331302">%null%</text>
+<text id="2331303">%null%</text>
+<text id="2331304">%null%</text>
+<text id="2331305">Sending co-op sign to summoning pools (Range: Near/far)</text>
+<text id="2331306">Sending hostile sign to summoning pools (Range: Near/far)</text>
 <text id="2410000">Could not summon cooperator.
 Cooperator was unable to join session.</text>
 <text id="2410100">Could not summon adversary.
@@ -282,6 +288,8 @@ Defeat Millicent's sisters!</text>
 Defeat Millicent!</text>
 <text id="2601423">You have been ambushed!
 Defeat Ensha of the Royal Remains!</text>
+<text id="2601424">Invading another world.
+Defeat Magnus the Beast Claw!</text>
 <text id="2602000">Furled Finger &lt;?joinName?&gt; summoned as a cooperator</text>
 <text id="2602001">%null%</text>
 <text id="2602002">%null%</text>
@@ -448,6 +456,8 @@ Returning to your world.</text>
 <text id="2611422">Millicent defeated.
 Returning to your world.</text>
 <text id="2611423">Defeated Ensha of the Royal Remains.</text>
+<text id="2611424">Magnus the Beast Claw defeated.
+Returning to your world.</text>
 <text id="2612304">With their objective accomplished,
 Hunter &lt;?leaveName?&gt; returned to their world</text>
 <text id="2620000">Furled Finger &lt;?deadName?&gt; has died</text>
@@ -533,6 +543,7 @@ Hunter &lt;?leaveName?&gt; returned to their world</text>
 <text id="2621421">You died. Returning to your world.</text>
 <text id="2621422">You died. Returning to your world.</text>
 <text id="2621423">You died</text>
+<text id="2621424">You died. Returning to your world.</text>
 <text id="2622000">Furled Finger &lt;?deadName?&gt; has died</text>
 <text id="2622001">%null%</text>
 <text id="2622002">%null%</text>
@@ -669,6 +680,8 @@ Hunter &lt;?leaveName?&gt; returned to their world</text>
 <text id="2631420">Returning to your world</text>
 <text id="2631421">Returning to your world</text>
 <text id="2631422">Returning to your world</text>
+<text id="2631423">%null%</text>
+<text id="2631424">Returning to your world</text>
 <text id="2632000">Furled Finger &lt;?leaveName?&gt; has returned to their world</text>
 <text id="2632001">%null%</text>
 <text id="2632002">%null%</text>

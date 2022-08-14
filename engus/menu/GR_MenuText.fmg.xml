@@ -1587,12 +1587,12 @@ Multiplayer will begin once you are summoned.
 You can also use this after being invaded to summon a hunter for help.
 (Summoning rescuers may not always be possible.)</text>
 <text id="121115">Cancel summons request</text>
-<text id="121116">Send a cooperative summon sign to several nearby summoning pools (activated pools only).
+<text id="121116">Send a cooperative summon sign to several summoning pools (activated pools only).
 
 If you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.
 (Your objective will be to help the host player defeat the area boss.)</text>
 <text id="121117">Remove co-op summon sign from summoning pool</text>
-<text id="121118">Send a competitive summon sign to several nearby summoning pools (activated pools only).
+<text id="121118">Send a competitive summon sign to several summoning pools (activated pools only).
 
 If you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.
 (Your objective will be to defeat the Host of Fingers.)</text>

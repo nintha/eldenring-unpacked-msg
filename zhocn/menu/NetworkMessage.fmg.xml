@@ -77,8 +77,8 @@
 <text id="2311209">%null%</text>
 <text id="2311210">作为入侵者，入侵其他世界。</text>
 <text id="2311304">作为猎人，接受其他世界的召唤。</text>
-<text id="2331200">正在寻找可入侵的世界。</text>
-<text id="2331201">正在寻找募集协助者的世界。</text>
+<text id="2331200">正在寻找可入侵的世界。（范围仅限附近）</text>
+<text id="2331201">正在寻找可入侵的世界。（范围不分远近）</text>
 <text id="2331202">正在提出召唤崩指猎人的请求。</text>
 <text id="2331203">%null%</text>
 <text id="2331204">%null%</text>
@@ -87,9 +87,15 @@
 <text id="2331207">%null%</text>
 <text id="2331208">%null%</text>
 <text id="2331209">%null%</text>
-<text id="2331210">正在寻找可入侵的世界。</text>
-<text id="2331300">正在将协力记号送往记号聚集处。</text>
-<text id="2331301">正在将敌对记号送往记号聚集处。</text>
+<text id="2331210">正在寻找可入侵的世界。（范围仅限附近）</text>
+<text id="2331211">正在寻找可入侵的世界。（范围不分远近）</text>
+<text id="2331300">正在将协力记号送往记号聚集处。（范围仅限附近）</text>
+<text id="2331301">正在将敌对记号送往记号聚集处。（范围仅限附近）</text>
+<text id="2331302">%null%</text>
+<text id="2331303">%null%</text>
+<text id="2331304">%null%</text>
+<text id="2331305">正在将协力记号送往记号聚集处。（范围不分远近）</text>
+<text id="2331306">正在将敌对记号送往记号聚集处。（范围不分远近）</text>
 <text id="2410000">无法召唤协助者，
 因此不能进行联机。</text>
 <text id="2410100">无法召唤敌对者，
@@ -276,6 +282,8 @@
 请打倒 米莉森。</text>
 <text id="2601423">受到袭击了！
 请打倒“王骸”恩夏。</text>
+<text id="2601424">已入侵其他世界。
+请打倒“兽爪”玛格纳斯。</text>
 <text id="2602000">已召唤协助者，勾指&lt;?joinName?&gt;。</text>
 <text id="2602001">%null%</text>
 <text id="2602002">%null%</text>
@@ -434,6 +442,8 @@
 <text id="2611422">已打倒 米莉森，
 将返回原本的世界。</text>
 <text id="2611423">已打倒“王骸”恩夏。</text>
+<text id="2611424">已打倒“兽爪”玛格纳斯，
+将返回原本的世界。</text>
 <text id="2612304">猎人&lt;?leaveName?&gt;达成目标，
 已返回原本的世界。</text>
 <text id="2620000">勾指&lt;?deadName?&gt;已死亡。</text>
@@ -519,6 +529,7 @@
 <text id="2621421">您已死亡，将返回原本的世界。</text>
 <text id="2621422">您已死亡，将返回原本的世界。</text>
 <text id="2621423">您已死亡。</text>
+<text id="2621424">您已死亡，将返回原本的世界。</text>
 <text id="2622000">勾指&lt;?deadName?&gt;已死亡。</text>
 <text id="2622001">%null%</text>
 <text id="2622002">%null%</text>
@@ -655,6 +666,8 @@
 <text id="2631420">将返回原本的世界。</text>
 <text id="2631421">将返回原本的世界。</text>
 <text id="2631422">将返回原本的世界。</text>
+<text id="2631423">%null%</text>
+<text id="2631424">将返回原本的世界。</text>
 <text id="2632000">勾指&lt;?leaveName?&gt;已返回原本的世界。</text>
 <text id="2632001">%null%</text>
 <text id="2632002">%null%</text>

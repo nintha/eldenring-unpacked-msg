@@ -53,13 +53,14 @@ at the cost of your Sacrificial Twig</text>
 <text id="20000007">%null%</text>
 <text id="20000008">%null%</text>
 <text id="20000009">%null%</text>
-<text id="20000010">Attempt to invade another world?</text>
+<text id="20000010">Attempting to invade another world.
+Select the bounds for the attempt.</text>
 <text id="20000011">Cancel invasion of other world?</text>
 <text id="20000012">%null%</text>
 <text id="20000013">%null%</text>
 <text id="20000014">%null%</text>
-<text id="20000015">%null%</text>
-<text id="20000016">%null%</text>
+<text id="20000015">Nearby only</text>
+<text id="20000016">Both near and far</text>
 <text id="20000017">%null%</text>
 <text id="20000018">%null%</text>
 <text id="20000019">%null%</text>
@@ -93,23 +94,25 @@ at the cost of your Sacrificial Twig</text>
 <text id="20000047">%null%</text>
 <text id="20000048">%null%</text>
 <text id="20000049">%null%</text>
-<text id="20000050">Send a co-op sign to summoning pools?</text>
+<text id="20000050">Sending co-op sign to summoning pools.
+Select which summoning pools to use.</text>
 <text id="20000051">Withdraw a co-op sign from summoning pools?</text>
 <text id="20000052">%null%</text>
 <text id="20000053">%null%</text>
 <text id="20000054">%null%</text>
-<text id="20000055">%null%</text>
-<text id="20000056">%null%</text>
+<text id="20000055">Nearby only</text>
+<text id="20000056">Both near and far</text>
 <text id="20000057">%null%</text>
 <text id="20000058">%null%</text>
 <text id="20000059">%null%</text>
-<text id="20000060">Send a hostile sign to summoning pools?</text>
+<text id="20000060">Sending hostile sign to summoning pools.
+Select which summoning pools to use.</text>
 <text id="20000061">Withdraw a hostile sign from summoning pools?</text>
 <text id="20000062">%null%</text>
 <text id="20000063">%null%</text>
 <text id="20000064">%null%</text>
-<text id="20000065">%null%</text>
-<text id="20000066">%null%</text>
+<text id="20000065">Nearby only</text>
+<text id="20000066">Both near and far</text>
 <text id="20000067">%null%</text>
 <text id="20000068">%null%</text>
 <text id="20000069">%null%</text>

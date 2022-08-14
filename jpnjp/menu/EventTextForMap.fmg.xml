@@ -240,6 +240,16 @@
 <text id="30138">%null%</text>
 <text id="30139">%null%</text>
 <text id="30140">地図に赤い印が描き込まれました</text>
+<text id="30141">%null%</text>
+<text id="30142">%null%</text>
+<text id="30143">%null%</text>
+<text id="30144">%null%</text>
+<text id="30145">%null%</text>
+<text id="30146">%null%</text>
+<text id="30147">%null%</text>
+<text id="30148">%null%</text>
+<text id="30149">%null%</text>
+<text id="30150">爛れた血指を持っていません</text>
 <text id="60011">三体の賢獣を探せ</text>
 <text id="60012">%null%</text>
 <text id="60013">%null%</text>
@@ -386,6 +396,8 @@
 <text id="80609">「魔術師セレン」の敵対者として召喚されますか？</text>
 <text id="80610">「ミリセント」の協力者として召喚されますか？</text>
 <text id="80611">「ミリセント」の敵対者として召喚されますか？</text>
+<text id="80612">「獣の爪、マグナス」の世界に侵入しますか？</text>
+<text id="80613">爛れた血指を消費して、「獣の爪、マグナス」の世界に侵入しますか？</text>
 <text id="80800">「城主ジェーレン」を召喚しました</text>
 <text id="80801">「城主ジェーレン」が死亡しました</text>
 <text id="80802">「城主ジェーレン」が元の世界に戻りました</text>

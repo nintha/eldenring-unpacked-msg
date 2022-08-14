@@ -37,7 +37,7 @@
 <text id="12000100">艾尔登法环吶，艾尔登法环──</text>
 <text id="12000200">那甚至能支配星辰流转，</text>
 <text id="12000300">让生命登上颠峰的黄金。</text>
-<text id="12000400">然而如今，祂早已破碎──</text>
+<text id="12000400">然而如今，它早已破碎──</text>
 <text id="12000401">%null%</text>
 <text id="12000402">%null%</text>
 <text id="12000403">%null%</text>
@@ -47,7 +47,7 @@
 <text id="12000407">%null%</text>
 <text id="12000408">%null%</text>
 <text id="12000409">%null%</text>
-<text id="12000410">然而如今，祂早已破碎──</text>
+<text id="12000410">然而如今，它早已破碎──</text>
 <text id="12000500">指引你们穿越雾海，前往交界地。</text>
 <text id="12000600">“金色面具”荷莱·露、</text>
 <text id="12000700">“同眠少女”尤莉雅、</text>
@@ -1381,8 +1381,7 @@
 <text id="100105067">%null%</text>
 <text id="100105068">%null%</text>
 <text id="100105069">%null%</text>
-<text id="100105070">圆桌厅堂。那是受到指引的褪色者，
-也就是英雄们聚集的地方。</text>
+<text id="100105070">圆桌厅堂。那是受到指引的褪色者，</text>
 <text id="100105071">%null%</text>
 <text id="100105072">%null%</text>
 <text id="100105073">%null%</text>
@@ -1392,7 +1391,7 @@
 <text id="100105077">%null%</text>
 <text id="100105078">%null%</text>
 <text id="100105079">%null%</text>
-<text id="100105080">我能够带你前往。</text>
+<text id="100105080">也就是英雄们聚集的地方，我能够带你前往。</text>
 <text id="100106000">……我明白了。</text>
 <text id="100106001">%null%</text>
 <text id="100106002">%null%</text>
@@ -1913,7 +1912,7 @@
 <text id="100140037">%null%</text>
 <text id="100140038">%null%</text>
 <text id="100140039">%null%</text>
-<text id="100140040">祂的表面布满荆棘，拒绝让你进入。</text>
+<text id="100140040">它的表面布满荆棘，拒绝让你进入。</text>
 <text id="100140041">%null%</text>
 <text id="100140042">%null%</text>
 <text id="100140043">%null%</text>
@@ -2911,7 +2910,7 @@
 <text id="101050037">%null%</text>
 <text id="101050038">%null%</text>
 <text id="101050039">%null%</text>
-<text id="101050040">在大升降梯重合半月吧。</text>
+<text id="101050040">在大升降机重合半月吧。</text>
 <text id="101050041">%null%</text>
 <text id="101050042">%null%</text>
 <text id="101050043">%null%</text>
@@ -6459,7 +6458,7 @@
 <text id="106250047">%null%</text>
 <text id="106250048">%null%</text>
 <text id="106250049">%null%</text>
-<text id="106250050">……我想让他们远离这块土地。</text>
+<text id="106250050">……我想让它远离这块土地。</text>
 <text id="106250051">%null%</text>
 <text id="106250052">%null%</text>
 <text id="106250053">%null%</text>
@@ -6470,7 +6469,7 @@
 <text id="106250058">%null%</text>
 <text id="106250059">%null%</text>
 <text id="106250060">现下的生命、灵魂都与律法同在，
-我希望能远离，让一切远为他方。</text>
+我希望律法能远离，远在他方。</text>
 <text id="106250061">%null%</text>
 <text id="106250062">%null%</text>
 <text id="106250063">%null%</text>
@@ -15045,7 +15044,7 @@
 <text id="223045037">%null%</text>
 <text id="223045038">%null%</text>
 <text id="223045039">%null%</text>
-<text id="223045040">……而且，那棵黄金树在等主子找祂。</text>
+<text id="223045040">……而且，那棵黄金树在等主子找它。</text>
 <text id="223045041">%null%</text>
 <text id="223045042">%null%</text>
 <text id="223045043">%null%</text>
@@ -15096,7 +15095,7 @@
 <text id="223046037">%null%</text>
 <text id="223046038">%null%</text>
 <text id="223046039">%null%</text>
-<text id="223046040">……而且，那棵黄金树在等您找祂。</text>
+<text id="223046040">……而且，那棵黄金树在等您找它。</text>
 <text id="223046041">%null%</text>
 <text id="223046042">%null%</text>
 <text id="223046043">%null%</text>
@@ -30888,7 +30887,7 @@
 <text id="313011017">%null%</text>
 <text id="313011018">%null%</text>
 <text id="313011019">%null%</text>
-<text id="313011020">但是大升降梯已经很久没有运转，
+<text id="313011020">但是大升降机已经很久没有运转，
 道路也早就年久失修。</text>
 <text id="313011021">%null%</text>
 <text id="313011022">%null%</text>
@@ -30909,7 +30908,7 @@
 <text id="313011037">%null%</text>
 <text id="313011038">%null%</text>
 <text id="313011039">%null%</text>
-<text id="313011040">那座古遗迹位在大升降梯旁的谷底，
+<text id="313011040">那座古遗迹位在大升降机旁的谷底，
 是一座古老的坑道……</text>
 <text id="313011041">%null%</text>
 <text id="313011042">%null%</text>
@@ -31346,7 +31345,7 @@
 <text id="313024007">%null%</text>
 <text id="313024008">%null%</text>
 <text id="313024009">%null%</text>
-<text id="313024010">那座古遗迹位在大升降梯旁的谷底，
+<text id="313024010">那座古遗迹位在大升降机旁的谷底，
 是一座古老的坑道……</text>
 <text id="313024011">%null%</text>
 <text id="313024012">%null%</text>
@@ -38253,7 +38252,7 @@
 <text id="320030037">%null%</text>
 <text id="320030038">%null%</text>
 <text id="320030039">%null%</text>
-<text id="320030040">真没想到褪色人的指引，背后竟然充满着奥秘。</text>
+<text id="320030040">真没想到褪色者的指引，背后竟然充满着奥秘。</text>
 <text id="320030041">%null%</text>
 <text id="320030042">%null%</text>
 <text id="320030043">%null%</text>
@@ -38430,7 +38429,7 @@
 <text id="320034037">%null%</text>
 <text id="320034038">%null%</text>
 <text id="320034039">%null%</text>
-<text id="320034040">真没想到褪色人的指引，背后竟然充满着奥秘。</text>
+<text id="320034040">真没想到褪色者的指引，背后竟然充满着奥秘。</text>
 <text id="320034041">%null%</text>
 <text id="320034042">%null%</text>
 <text id="320034043">%null%</text>
@@ -44582,7 +44581,7 @@
 <text id="325022017">%null%</text>
 <text id="325022018">%null%</text>
 <text id="325022019">%null%</text>
-<text id="325022020">在艾尔登法环破碎以前，那遥远的黄金树全盛时期，</text>
+<text id="325022020">在艾尔登法环破碎以前，那远古黄金树的全盛时期，</text>
 <text id="325022021">%null%</text>
 <text id="325022022">%null%</text>
 <text id="325022023">%null%</text>
@@ -44696,7 +44695,7 @@
 <text id="325023038">%null%</text>
 <text id="325023039">%null%</text>
 <text id="325023040">一群穿着具有隐身效果的衣服，
-再披上银色盔甲，只有女性成员的刺客集团。</text>
+披上银色盔甲，只有女性成员的刺客集团。</text>
 <text id="325023041">%null%</text>
 <text id="325023042">%null%</text>
 <text id="325023043">%null%</text>
@@ -53399,8 +53398,8 @@
 <text id="349001057">%null%</text>
 <text id="349001058">%null%</text>
 <text id="349001059">%null%</text>
-<text id="349001060">我愿意告诉你──
-那边那座的瑟利亚镇，到底隐藏了什么秘密。</text>
+<text id="349001060">我愿意告诉您──
+那边那座瑟利亚镇，到底隐藏了什么秘密。</text>
 <text id="349010000">哦哦，您愿意帮忙啊。</text>
 <text id="349010001">%null%</text>
 <text id="349010002">%null%</text>
@@ -53579,8 +53578,8 @@
 <text id="349014017">%null%</text>
 <text id="349014018">%null%</text>
 <text id="349014019">%null%</text>
-<text id="349014020">我愿意告诉你──
-那边那座的瑟利亚镇，到底隐藏了什么秘密。</text>
+<text id="349014020">我愿意告诉您──
+那边那座瑟利亚镇，到底隐藏了什么秘密。</text>
 <text id="349020000">哦哦，您找到了纯净金针。</text>
 <text id="349020001">%null%</text>
 <text id="349020002">%null%</text>

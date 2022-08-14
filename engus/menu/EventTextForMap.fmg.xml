@@ -239,6 +239,16 @@ It seems Sellen's body has died.</text>
 <text id="30138">%null%</text>
 <text id="30139">%null%</text>
 <text id="30140">A red mark was made on the map</text>
+<text id="30141">%null%</text>
+<text id="30142">%null%</text>
+<text id="30143">%null%</text>
+<text id="30144">%null%</text>
+<text id="30145">%null%</text>
+<text id="30146">%null%</text>
+<text id="30147">%null%</text>
+<text id="30148">%null%</text>
+<text id="30149">%null%</text>
+<text id="30150">You have no Festering Bloody Finger</text>
 <text id="60011">Seek three wise beasts</text>
 <text id="60012">%null%</text>
 <text id="60013">%null%</text>
@@ -386,6 +396,8 @@ Fire vanquished, the era of the Erdtree begins</text>
 <text id="80609">Be summoned to challenge Sorceress Sellen?</text>
 <text id="80610">Be summoned to assist Millicent?</text>
 <text id="80611">Be summoned to challenge Millicent?</text>
+<text id="80612">Invade Magnus the Beast Claw's world?</text>
+<text id="80613">Use Festering Bloody Finger and invade Magnus the Beast Claw's world?</text>
 <text id="80800">Summoned Castellan Jerren</text>
 <text id="80801">Castellan Jerren has died</text>
 <text id="80802">Castellan Jerren returned to his world</text>
